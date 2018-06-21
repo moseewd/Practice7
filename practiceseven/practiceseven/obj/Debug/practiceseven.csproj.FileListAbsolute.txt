@@ -1,0 +1,7 @@
+c:\users\данила\source\repos\practiceseven\practiceseven\bin\Debug\practiceseven.exe.config
+c:\users\данила\source\repos\practiceseven\practiceseven\bin\Debug\practiceseven.exe
+c:\users\данила\source\repos\practiceseven\practiceseven\bin\Debug\practiceseven.pdb
+c:\users\данила\source\repos\practiceseven\practiceseven\obj\Debug\practiceseven.csprojResolveAssemblyReference.cache
+c:\users\данила\source\repos\practiceseven\practiceseven\obj\Debug\practiceseven.csproj.CoreCompileInputs.cache
+c:\users\данила\source\repos\practiceseven\practiceseven\obj\Debug\practiceseven.exe
+c:\users\данила\source\repos\practiceseven\practiceseven\obj\Debug\practiceseven.pdb
